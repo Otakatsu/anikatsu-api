@@ -1,4 +1,4 @@
-# AniKatsu API.
+# AniKatsu API
 
 ### Installing
 
